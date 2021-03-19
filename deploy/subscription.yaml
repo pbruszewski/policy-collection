@@ -6,6 +6,6 @@ metadata:
     apps.open-cluster-management.io/git-path: demo
   name: demo-stable-policies-sub
 spec:
-  channel: policies/demo-stable-policies-chan
+  channel: policies/demo-stable-policies-channel
   placement:
     local: true
